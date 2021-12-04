@@ -1,5 +1,10 @@
-// import the data fro data.js
-const tableData = data;
+body {
 
-// Reference the HTML table using d3
-var tbody = d3.select("tbody");
+    color: #d4d4d4;
+  }
+  
+.jumbotron {
+background-image: url("../images/nasa.jpg");
+background-size: 100% 100%;
+text-align: center;
+}
